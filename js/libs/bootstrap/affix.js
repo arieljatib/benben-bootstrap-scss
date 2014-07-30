@@ -10,6 +10,8 @@
 +function ($) {
   'use strict';
 
+  console.log('loaded affix');
+
   // AFFIX CLASS DEFINITION
   // ======================
 
